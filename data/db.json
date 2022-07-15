@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Camisa",
+      "price": 59.9
+    },
+    {
+      "id": 2,
+      "name": "Calça vermelha",
+      "price": 90
+    },
+    {
+      "id": 3,
+      "name": "Boné aba reta",
+      "price": 29.9
+    },
+    {
+      "name": "teste",
+      "price": "12",
+      "id": 4
+    },
+    {
+      "name": "teclado",
+      "price": "150",
+      "id": 5
+    },
+    {
+      "name": "mouse",
+      "price": "100",
+      "id": 6
+    },
+    {
+      "name": "cadeira",
+      "price": "950",
+      "id": 7
+    },
+    {
+      "name": "fonte 500w",
+      "price": "350",
+      "id": 8
+    },
+    {
+      "name": "fonte 500w",
+      "price": "350",
+      "id": 9
+    },
+    {
+      "name": "fonte 500w",
+      "price": "350",
+      "id": 10
+    },
+    {
+      "name": "fonte 500w",
+      "price": "350",
+      "id": 11
+    },
+    {
+      "name": "fonte 500w",
+      "price": "350",
+      "id": 12
+    },
+    {
+      "name": "fonte 500w",
+      "price": "350",
+      "id": 13
+    },
+    {
+      "name": "fonte 500w",
+      "price": "350",
+      "id": 14
+    },
+    {
+      "name": "fonte 500w",
+      "price": "350",
+      "id": 15
+    },
+    {
+      "name": "fonte 500w",
+      "price": "350",
+      "id": 16
+    }
+  ]
+}
